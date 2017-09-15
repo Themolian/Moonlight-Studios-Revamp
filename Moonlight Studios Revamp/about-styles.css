@@ -1,0 +1,261 @@
+﻿body
+{
+
+  margin: 0 auto;
+  padding: 0 auto;
+  height: 100vh;
+  font-family: 'Encode Sans', sans-serif;
+  color: white;
+
+}
+
+h1
+{
+
+    border-bottom: 1px grey solid;
+    width: 1200px;
+
+}
+
+#wrapper
+{
+
+  width: 1400px;
+  height: 2000px;
+  margin: 0 auto;
+  background-color: #141414;
+
+}
+
+#topcontentcontainer
+{
+
+  width: 100%;
+  height: 115px;
+  border-bottom: 119px grey solid;
+
+}
+
+#socialmedia
+{
+  height: 35px;
+  margin:0 auto;
+  background-color: #1C1C1C;
+}
+
+#main-nav
+{
+
+  height: 83px;
+  margin: 0 auto;
+  background-color: #141414;
+
+}
+
+#logo
+{
+
+  float:left;
+
+}
+
+#logo img
+{
+
+  width: 85px;
+  height: 85px;
+  margin-left: 35px;
+
+}
+
+#navbuttons
+{
+
+  color: white;
+  font-size: 15px;
+  display: inline-block;
+  float: right;
+  margin-top: 20px;
+
+}
+
+#navbuttons li
+{
+
+  display: inline-block;
+  margin-right: 40px;
+
+}
+
+#navbuttons a
+{
+
+  text-decoration: none;
+  color: inherit;
+
+}
+
+#navbuttons a:hover
+{
+
+    color: gainsboro;
+
+}
+
+#navbuttons a:active
+{
+
+    color:deepskyblue;
+
+}
+
+#middlecontentcontainer
+{
+
+    margin-top: 40px;
+
+}
+
+#aboutmecontainer
+{
+
+    width: 1395px;
+    height: 405px;
+    /*border: 3px grey solid;*/
+    margin-top: 100px;
+
+
+}
+
+#title-header
+{
+
+    position: relative;
+    left: 30px;
+    color: white;
+
+}
+
+#sololearn-title
+{
+    position:relative;
+    left: 80px;
+    color:white;
+
+}
+
+#creatorpicture img
+{
+    float: left;
+    position: relative;
+    left: 80px;
+    /*border: 2px grey solid;*/
+    border-radius: 50%;
+    height: 402px;
+    width: 416px;
+
+}
+
+#sololearnlogo
+{
+
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+
+}
+
+#info
+{
+
+    float: right;
+    margin-right: 60px;
+    height: 402px;
+    width: 700px;
+    /*border: 1px grey solid;*/
+    color: white;
+    letter-spacing: 1px;
+    background-color: #101010;
+    border: 3px #0b0b0b inset;
+}
+
+#qualificationcontainer
+{
+
+    margin-top: 100px;
+
+}
+
+#cardcontainer
+{
+
+    margin-top: 30px;
+
+}
+
+#bife-container
+{
+
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+    border-bottom: 1px grey solid;
+    height: 400px;
+
+}
+
+#bife-container h1
+{
+
+    text-align: center;
+
+}
+
+#bife-container li
+{
+
+  font-size: 20px;
+  text-decoration: none;
+
+}
+
+#year1
+{
+
+    color:white;
+    float:left;
+    position: relative;
+    left: 100px;
+    border-right: 1px grey solid;
+    width: 600px;
+
+}
+
+#year2
+{
+
+    color:white;
+    float: right;
+    position: relative;
+    right: 100px;
+
+}
+
+#footer
+{
+  /*margin-top: 100px;*/
+  width: 1400px;
+  height: 64px;
+  color: #777777;
+  background-color: black;
+
+}
+
+#footertext
+{
+  margin-left: 30px;
+  float: left;
+
+}
